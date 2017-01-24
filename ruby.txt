@@ -1,0 +1,19 @@
+
+1-Ruby ?n asan script dill?rind?n biridir; bir cox texnologiya il? ?laq?si olmayanlar ucun kifay?t q?d?r sad?,
+inkisaf etmis developerlar ucun guclu q?sacas? h?r k?s ucun cox yaxs?.
+Cox qar?s?q syntaxlar? yoxdur.
+Bunun yerin? olduqca sad? Ingilizce syntax'lar il? yaz?l?r.
+
+2- Niy? Ruby istifad? ed?k?
+D?yis?n bildirisl?r laz?m deyil
+D?yis?n novl?ri yoxdur
+Sintaksis sad? v? tutarl?d?r
+Yaddas r?hb?rliyi ozdevinimlidir
+
+3-
+Ruby, obyekt? istiqam?tli bir proqramlasd?rma dilidir.
+
+Script dil il? obyektl?ri istiqam?tli dil ayr? anlay?slard?r. 
+Obyekt? istiqam?tli proqramlasd?rma daha cox detal v? daha ?hat?lidir.
+ Obyekt? istiqam?tli proqramlasd?rma ustunlukl?rini,
+ Script bir dil qurulusunda istifad? ucun Ruby dilin? ehtiyac esidilmisdir.

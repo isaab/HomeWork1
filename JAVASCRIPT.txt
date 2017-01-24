@@ -1,0 +1,18 @@
+JavaScript Nedir?
+
+JavaScript bir cox yerd?n da gor?c?yiniz uzr? Netscape firmas? t?r?find?n inkisaf etdirilmis olan bir script dilidir.
+ JavaScript biz? interaktiv v? dinamik web s?hif?l?ri haz?rlama imkan? verm?kd?dir. 
+Sintaksis Java'ya b?nz?s? d? Java v? JavaScript-birind?n f?rqli teknolojilerdir.
+
+
+JavaScript Haralarda Istifad? edil?r?
+
+Ag?rl?ql? olaraq Web Tasar?m'da istifad? edils? d? basqa bir nec? istifad? sah?si daha movcuddur.
+Numun? olaraq JavaScript ilk zamanlarda yaln?z must?ri t?r?fli istifad? ucun n?z?rd? tutulmus olsa da hal-haz?rda NodeJS il? birlikd? server t?r?fli istifad?sin? da baslanm?sd?r.
+Buna ?lav? olaraq bildiyim q?d?riyl? Unity oyun motorunda da JavaScript il? b?zi kodlamalar edil? bilir.
+
+JavaScript Il? N?l?r Edil? biler?
+
+Javascript kom?yi il? HTML qaynaq kodlar? d?yisdiril?, 
+JavaScript istifad? web s?hif?l?rini duzgun gost?r? bilm?k ucun brauzerinizin JavaScript d?st?yin? sahib olmas? laz?md?r
+ Indiki vaxtda aktual skanerl?rin ham?s? JavaScript d?st?kl?m?kd?dir.

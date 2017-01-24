@@ -1,0 +1,15 @@
+C proqramlasd?rma dill?ri:
+
+ 
+C proqramlasd?rma dili hal-haz?rda ?n m?shur dill?rd?n biridir.
+Suan istifad? bir cox proqramda C dili istifad?; Microsoft Windows, GNU / Linux, Minix kimi proqramlar?n istehsal?n?n boyuk bir ?ks?riyy?tind? C dili istifad? edilmisdir.
+C cox iti bir dildir, bundan qaynaqlanan bir cox problem proqramc?lar? m?cbur etdiyi ucun c ++ inkisaf etdirilmisdir.
+
+C oyr?nm?nin bir dig?r ustunluyu d? C-d?n inkisaf etmis bir cox proqramlasd?rma dilinin t?m?lini meydana g?tirir olmas?d?r.
+M?s?l?n obyekt ?sasl? bir dil olan C ++ oyr?nm?k ist?y?nl?rin ?vv?l C oyr?nm?si onlara boyuk ustunluk t?min ed?c?k.
+ Bir basqa ifad? il? C proqramlasd?rma dilind? ustalasanlar dig?r proqramlasd?rma dill?rini asanl?qla oyr?n? bil?rl?r.
+
+C oyr?nm?k sad?dir, cunki C sad? Ingilis ?mrl?r istifad?.
+Ancaq C bir y?g?lm?s dildir bu s?b?bl? ?mrl?r yaz?ld?qdan sonra, proqram? isl?tm?k ucun bir y?g?c? il? mas?n dilind?n insanlar?n istifad? ed? bil?c?yi bir s?kl? cevrilm?si laz?md?r
+Indiki vaxtda cox sayda C compiler var. Microsoftun Visual C ++ muhiti h?m C h?m d? C ++ ucun istifad? edil? m?shur bir Derleyiciler.
+Eyni zamanda internet uz?rind? ola bil?c?k bir cox pulsuz y?g?c? d? vard?r.
